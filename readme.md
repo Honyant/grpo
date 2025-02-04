@@ -1,4 +1,5 @@
-# janky GRPO v1
+# janky GRPO v1 
+*(DEEKSEEK-R1 replication (NOT CLICKBAIT) GONE RIGHT/WRONG, I MADE DEEKSEEK-R1 IN A CAVE WITH A BOX OF SCRAPS!!!!)*
 
 So I tried implementing GRPO from a blog post I found ["A vision researcher's guide to some RL stuff: PPO & GRPO"](https://yugeten.github.io/posts/2025/01/ppogrpo/) at like 3am. ggs
 Basically I tried making LLMs better at the task of fermi estimation using GRPO. I found a dataset of fermi estimation questions and answers on huggingface [https://huggingface.co/datasets/voidful/fermi](https://huggingface.co/datasets/voidful/fermi)
